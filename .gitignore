@@ -1,0 +1,7 @@
+# Ignored paths and directories
+## pycharm project path
+.idea
+
+## ignores vim temporal files
+**/*.swp
+

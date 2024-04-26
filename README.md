@@ -4,7 +4,7 @@
 <div align="center">
 
 Hamlyn Symposium on Medical Robotics 2024 [:link:](https://www.hamlynsymposium.org/events/open-source-software-for-surgical-technologies-2/)    
-28th June 2023       
+28th June 2024   
 London, UK   
 
 </div>
@@ -29,9 +29,9 @@ Authors of the accepted posters will be invited to present their work during our
 Further details can be found [here](posters)
 
 ## Organisers
-Dr [Eva Herbst](https://evaherbst.github.io/personal_website/), ETH Zurich
-Dr [Stephen Thompson](https://mxochicale.github.io/), University College London  
-Dr [Miguel Xochicale](https://mxochicale.github.io/), University College London  
+Dr [Eva Herbst](https://evaherbst.github.io/personal_website/), ETH Zurich   
+Dr [Stephen Thompson](https://mxochicale.github.io/), University College London   
+Dr [Miguel Xochicale](https://mxochicale.github.io/), University College London    
 
 ## Community
 Join our discord server
