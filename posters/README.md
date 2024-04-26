@@ -1,5 +1,5 @@
-# Call for posters for Open-Source Software for Surgical Technologies
-> Workshop at the 25th Hamlyn Symposium on Medical Robotics
+# Call for posters: Open-Source Software for Surgical Technologies
+> Workshop at the 25th Hamlyn Symposium on Medical Robotics     
 > Hamlyn Centre for Robotic Surgery -- 28th June 2024
 
 ## Abstract
@@ -15,6 +15,7 @@ Topics of interest include (but are not limited to):
 * Open source software libraries and frameworks
 * Medical and Surgical Software
 * Open-source software sustainability
+* Case studies of existing open-source software in new ways and combinations
 * Protocols to handle clinical data for computer assisted surgical technologies (e.g. ensuring patient privacy)
 * Project summaries, methodological approaches, research findings, project summaries, and initiatives related to Open-Source Software for Surgical Technologies.
 
@@ -35,7 +36,7 @@ We recommend to design poster with the following sections in a `A1` size.
 * References
 
 ## Poster submission
-Please submit your poster proposals by creating a [new issue](https://github.com/oss-for-surgtech/workshop-hamlyn2024/issues/new) using poster submssions option.
+Please submit your poster proposals by creating a [new issue](https://github.com/oss-for-surgtech/workshop-hamlyn2024/issues/new/choose) with the title of your poster, using poster submssions option ([Get started] button).
 
 ## Program Chairs
 Dr [Eva Herbst](https://evaherbst.github.io/personal_website/), ETH Zurich   
