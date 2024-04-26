@@ -11,16 +11,21 @@ assignees: ''
 Welcome Poster submission for 🎒 Open-Source Software for Surgical Technologies :tada:	 
 
 ## Personal Details
-<!--Add full name of lead authors-->
-
-## Department/Faculty
-<!--Add deparment and faculty-->
-
-## Job title
-<!--Add job title-->
-
-## Email address
-<!--Add email address-->
+* First author:
+  * [ ] family-names: 
+  * [ ] given-names: 
+  * [ ] email: 
+  * [ ] orcid: optional 
+  * [ ] Department/Faculty
+  * [ ] affiliation: 
+* Second author:
+  * [ ] family-names: 
+  * [ ] given-names: 
+  * [ ] email: 
+  * [ ] orcid: optional 
+  * [ ] Department/Faculty
+  * [ ] affiliation: 
+* Please copy and paste above lines for add more authors
 
 ## Which subtheme most closely connects to your poster?
 * [ ] Open source software libraries and frameworks
