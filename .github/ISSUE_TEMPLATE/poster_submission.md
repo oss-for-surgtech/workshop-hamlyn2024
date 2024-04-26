@@ -28,11 +28,13 @@ Welcome Poster submission for 🎒 Open-Source Software for Surgical Technologie
 * Please copy and paste above lines for add more authors
 
 ## Which subtheme most closely connects to your poster?
-* [ ] Open source software libraries and frameworks
-* [ ] Medical and Surgical Software
-* [ ] Open-source software sustainability
-* [ ] Protocols to handle clinical data for computer assisted surgical technologies (e.g. ensuring patient privacy)
-* [ ] Project summaries, methodological approaches, research findings, project summaries, and initiatives related to Open-Source Software for Surgical Technologies.
+* [ ] Open-source software libraries and frameworks, 
+* [ ] Medical and surgical software innovations,
+* [ ] Sustainability in open-source software,
+* [ ] Case studies showcasing novel applications and combinations of existing software,
+* [ ] Protocols for managing clinical data in computer-assisted software for surgical technologies, and 
+* [ ] Project summaries, methodological approaches, research findings, and initiatives related to Open-Source Software for Surgical Technologies.
+* [ ] Other (please add topic).
 
 ## Poster title
 <!--Add poster title -->

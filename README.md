@@ -38,7 +38,7 @@ Your contributions in these areas will enrich our discussions and advance the fi
 The authors of accepted posters will have the opportunity to present and engage in discussions about current progress, challenges, and emerging trends. 
 Let us come together to foster a vibrant community of engineers, researchers, and clinicians from both academia and industry.
 
-We are excited to announce that we'll be recognizing excellence with awards for the best poster and runner-up submissions. 
+We are excited to announce that we'll be recognising excellence with awards for the best poster and runner-up submissions. 
 For additional information and complete details, please refer to this [link](posters). 
 
 
