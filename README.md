@@ -25,7 +25,8 @@ The programme will be posted in May 2024.
 
 ## Call for posters
 We invite poster submissions to this workshop on Open-Source Software for Surgical Technologies. 
-Authors of the accepted posters will be invited to present their work during our workshop to spark discussions, collaborations, and networking.
+Authors of the accepted posters will present and to discuss current progress, challenges and trends, and hopefully build together a community with engineers, researchers and clinicians from academia and industry.
+We are including awards for the best poster and runner up.
 Further details can be found [here](posters)
 
 ## Organisers

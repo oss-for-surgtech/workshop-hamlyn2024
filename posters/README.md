@@ -5,7 +5,6 @@
 ## Abstract
 We invite participants to submit poster on the topic of Open-Source Software for Surgical Technologies.
 Open-source software libraries for surgical technologies include areas on computer assisted surgery, medical robotics and medical imaging (e.g. SciKit-Surgery, 3DSlicer, Holohub, MONAI, PLUS, KitwareMedical, and FAST). These libraries have shown great progress in the last twenty years due to their rapid innovation and adaption to new technologies, continuous release of open software and datasets for algorithm evaluation, good documentation and educational resources for students, researchers, engineers and clinicians, and parentships between academia and industry. However, research-driven technologies bring new challenges on 1) using the latest generation of hardware, 2) ensuring fast prototyping and validation of new algorithms, 3) dealing with fragmented source code for heterogenous systems, 4) enabling high performance of medical image computing and visualisation in the operating room, and 5) ensuring standardisation of data quality and data privacy. Such challenges raise the question of how to transform open-source software libraries to be more sustainable, long-term supported and translatable to the clinic. 
-Poster session will also be helpful to present and to discuss current progress, challenges and trends, and hopefully build together a community with engineers, researchers and clinicians from academia and industry.
 
 ## Awards
 We are including awards for the best poster and runner up.
