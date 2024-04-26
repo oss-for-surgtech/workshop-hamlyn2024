@@ -24,11 +24,23 @@ Participants of the workshop will learn from the leading authors of state-of-the
 The programme will be posted in May 2024.
 
 ## Call for posters
-All attendees are invited to submit posters to this workshop on Open-Source Software for Surgical Technologies. 
-We encourage posters that share (1) Open source software libraries and frameworks, (2) Medical and Surgical Software, (3) Open-source software sustainability, (4) case studies of existing software in new ways and combinations, (5) Protocols to handle clinical data for computer assisted surgical technologies, and (6) project summaries, methodological approaches, research findings, project summaries, and initiatives related to Open-Source Software for Surgical Technologies. 
-Authors of the accepted posters will present and to discuss current progress, challenges and trends, and hopefully build together a community with engineers, researchers and clinicians from academia and industry.
-We are also including awards for the best poster and runner up.
-Further details can be found [here](posters)
+Calling all attendees to share their insights and contributions through poster presentations focusing on Open-Source Software for Surgical Technologies. Your innovative work is welcomed and encouraged!
+
+We welcome posters covering a diverse range of topics, including:
+(1) Open-source software libraries and frameworks, 
+(2) Medical and surgical software innovations,
+(3) Sustainability in open-source software,
+(4) Case studies showcasing novel applications and combinations of existing software,
+(5) Protocols for managing clinical data in computer-assisted software for surgical technologies, and 
+(6) Project summaries, methodological approaches, research findings, and initiatives related to Open-Source Software for Surgical Technologies.
+Your contributions in these areas will enrich our discussions and advance the field!
+
+The authors of accepted posters will have the opportunity to present and engage in discussions about current progress, challenges, and emerging trends. 
+Let us come together to foster a vibrant community of engineers, researchers, and clinicians from both academia and industry.
+
+We are excited to announce that we'll be recognizing excellence with awards for the best poster and runner-up submissions. 
+For additional information and complete details, please refer to this [link](posters). 
+
 
 ## Organisers
 Dr [Eva Herbst](https://evaherbst.github.io/personal_website/), ETH Zurich   

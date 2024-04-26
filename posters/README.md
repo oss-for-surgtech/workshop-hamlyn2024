@@ -2,13 +2,22 @@
 > Workshop at the 25th Hamlyn Symposium on Medical Robotics     
 > Hamlyn Centre for Robotic Surgery -- 28th June 2024
 
+Calling all attendees to share their insights and contributions through poster presentations focusing on Open-Source Software for Surgical Technologies. Your innovative work is welcomed and encouraged!
+
 ## Abstract
-All attendees are invited to submit posters presenting work related to Open-Source Software for Surgical Technologies.
+We welcome posters covering a diverse range of topics, including:
+* (1) Open-source software libraries and frameworks, 
+* (2) Medical and surgical software innovations,
+* (3) Sustainability in open-source software,
+* (4) Case studies showcasing novel applications and combinations of existing software,
+* (5) Protocols for managing clinical data in computer-assisted software for surgical technologies, and 
+* (6) Project summaries, methodological approaches, research findings, and initiatives related to Open-Source Software for Surgical Technologies.
+Your contributions in these areas will enrich our discussions and advance the field!
 
 Open-source software libraries for surgical technologies include areas on computer assisted surgery, medical robotics and medical imaging (e.g. SciKit-Surgery, 3DSlicer, Holohub, MONAI, PLUS, KitwareMedical, and FAST). These libraries have shown great progress in the last twenty years due to their rapid innovation and adaption to new technologies, continuous release of open software and datasets for algorithm evaluation, good documentation and educational resources for students, researchers, engineers and clinicians, and parentships between academia and industry. However, research-driven technologies bring new challenges on 1) using the latest generation of hardware, 2) ensuring fast prototyping and validation of new algorithms, 3) dealing with fragmented source code for heterogenous systems, 4) enabling high performance of medical image computing and visualisation in the operating room, and 5) ensuring standardisation of data quality and data privacy. Such challenges raise the question of how to transform open-source software libraries to be more sustainable, long-term supported and translatable to the clinic. 
 
 ## Awards
-We are including awards for the best poster and runner up.
+We are excited to announce that we will be recognising excellence with awards for the best poster and runner-up submissions. 
 
 ## Topic of interest
 Topics of interest include (but are not limited to):
