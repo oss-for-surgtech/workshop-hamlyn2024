@@ -32,7 +32,7 @@ Topics of interest include (but are not limited to):
 ## Important dates
 * Poster submission deadline: 7th June, 2024
 * Notification of acceptance: 14th June, 2024
-* PDF poster submission deadline: 7th June, 2024
+* PDF poster submission deadline: 24th June, 2024
 * Workshop day: 28th June, 2024
 
 ## Poster template and instructions
