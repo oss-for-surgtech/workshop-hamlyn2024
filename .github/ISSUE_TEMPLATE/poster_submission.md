@@ -8,7 +8,7 @@ assignees: ''
 ---
 	
 ## :school_satchel: Poster submission
-Welcome Poster submission for 🎒 Open-Source Software for Surgical Technologies :tada:	 
+Welcome to Poster submission for 🎒 Open-Source Software for Surgical Technologies :tada:	 
 
 ## Personal Details
 * First author:
@@ -25,7 +25,7 @@ Welcome Poster submission for 🎒 Open-Source Software for Surgical Technologie
   * [ ] orcid: optional 
   * [ ] Department/Faculty
   * [ ] affiliation: 
-* Please copy and paste above lines for add more authors
+* Please copy and paste above lines to add more authors
 
 ## Which subtheme most closely connects to your poster?
 * [ ] Open-source software libraries and frameworks, 

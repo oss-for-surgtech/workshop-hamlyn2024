@@ -28,7 +28,6 @@ Topics of interest include (but are not limited to):
 * Protocols to handle clinical data for computer assisted surgical technologies (e.g. ensuring patient privacy)
 * Project summaries, methodological approaches, research findings, project summaries, and initiatives related to Open-Source Software for Surgical Technologies.
 
-
 ## Important dates
 * Poster submission deadline: 7th June, 2024
 * Notification of acceptance: 14th June, 2024
@@ -43,6 +42,10 @@ We recommend to design poster with the following sections in a `A1` size.
 * Conclusions
 * (Acknowledgments)
 * References
+
+## Zenodo DOI's for accepted poster
+We have decided not to include proceedings this time to make the submission process easier and more accessible for everyone using our GitHub repository. 
+We plan to request Zenodo DOIs for accepted posters, providing authors with a formal citation option of their work.
 
 ## Poster submission
 Please submit your poster proposals by creating a [new issue](https://github.com/oss-for-surgtech/workshop-hamlyn2024/issues/new/choose) with the title of your poster, using poster submssions option ([Get started] button).
