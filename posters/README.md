@@ -30,7 +30,7 @@ Topics of interest include (but are not limited to):
 
 ## Important dates
 * Poster submission deadline: 7th June, 2024
-* Notification of acceptance: 14th June, 2024
+* Notification of acceptance: 14th June, 2024 (providing further details to authors on Zenodo's DOIs submission)
 * PDF poster submission deadline: 24th June, 2024
 * Workshop day: 28th June, 2024
 
@@ -48,7 +48,7 @@ We have decided not to include proceedings this time to make the submission proc
 We plan to request Zenodo DOIs for accepted posters, providing authors with a formal citation option of their work.
 
 ## Poster submission
-Please submit your poster proposals by creating a [new issue](https://github.com/oss-for-surgtech/workshop-hamlyn2024/issues/new/choose) with the title of your poster, using poster submssions option ([Get started] button).
+Please submit your poster proposals by creating a [new issue](https://github.com/oss-for-surgtech/workshop-hamlyn2024/issues/new/choose) with the title of your poster, using poster submissions option ([Get started] button).
 
 ## Program Chairs
 Dr [Eva Herbst](https://evaherbst.github.io/personal_website/), ETH Zurich   
