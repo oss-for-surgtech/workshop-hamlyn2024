@@ -20,8 +20,27 @@ Participants of the workshop will learn from the leading authors of state-of-the
 * Discussions on trends and the future of Surgical Technologies: how to quickly adopt the latest technologies (e.g., artificial intelligence, augmented reality, high-performance computing, etc) while still complying with relevant quality standards.
 * Building a community by releasing material for the workshop in GitHub repositories, welcoming anyone to join our discord sever to do networking, raise questions and share similar events and releasing recorded talks in the YouTube channel of the symposium.
 
-## Programme
-The programme will be posted in May 2024.
+## Programme (28th June 2024)
+| Time   | Title | Speaker | Links  |
+| --     | --    | --      | --     |
+| 08:30  | Registration |  |  | 
+| 09:00  | Introduction | Miguel Xochicale, UCL and Eva Herbst ETH Zurich |  | 
+| 09:10  | Medical software, regulation and related challenges | Xenophon Papademetris, Yale School of Medicine |  | 
+| 09:50  | Historical perspective on open source software for medical robotics and medical imaging: lessons learned for management of open source projects | Kevin Cleary, Children's National Hospital |  | 
+| 10:30  | Coffee Break |  |  | 
+| 11:00  | Open source neuronavigation for low-resources healthcare settings | Sonia Pujol and Colton Barr, Harvard |  | 
+| 11:45  | MONAI Label: an open source image labelling and learning tool | Andres Diaz-Pinto, NVIDIA |  | 
+| 12:30  | Lunch Break |  |  | 
+| 13:30  | Accelerating AI Medical Device Streaming Workflows with NVIDIA Holoscan | Mikael Brudfors NVIDIA |  | 
+| 14:00  | Enabling Software Defined Medical Robotics Using Open Source Software | Shashank Sharma, Karl Storz |  | 
+| 14:30  | Poster Session |  |  | 
+| 15:15  | Coffee Break |  |  | 
+| 15:30  | Commercial Open Source Software | Andrew Wichmann, Johns Hopkins Technology Ventures (JHTV) |  | 
+| 16:00  | Software-Driven Computer Assisted Navigation in the Age of Deep Learning | Micha Pfeiffer, National Centre for Tumor Diseases (NCT) Dresden |  | 
+| 16:30  | Open-source software supporting product development: sustainability versus certification | Tamas Haidegger, Óbuda University |  | 
+| 17:00  | Awards and closing message |  |  | 
+| 17:15  | Workshop End |  |  | 
+
 
 ## Call for posters
 Calling all attendees to share their insights and contributions through poster presentations focusing on Open-Source Software for Surgical Technologies. Your innovative work is welcomed and encouraged!
