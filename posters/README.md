@@ -29,7 +29,7 @@ Topics of interest include (but are not limited to):
 * Project summaries, methodological approaches, research findings, project summaries, and initiatives related to Open-Source Software for Surgical Technologies.
 
 ## Important dates
-* Poster submission deadline: 7th June, 2024
+* Poster proposal submission deadline: 7th June, 2024
 * Notification of acceptance: 14th June, 2024 (providing further details to authors on Zenodo's DOIs submission)
 * PDF poster submission deadline: 24th June, 2024
 * Workshop day: 28th June, 2024
