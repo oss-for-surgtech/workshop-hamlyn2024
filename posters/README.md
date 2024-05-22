@@ -34,6 +34,11 @@ Topics of interest include (but are not limited to):
 * PDF poster submission deadline: 24th June, 2024
 * Workshop day: 28th June, 2024
 
+## Poster Proposal submission
+We encourage open-source participation; however, we also want to ensure that authors have the option for both public and private submissions: 
+* Public Option: Please submit your poster proposals by creating a [new issue](https://github.com/oss-for-surgtech/workshop-hamlyn2024/issues/new/choose) with the title of your poster, using poster submissions option ([Get started] button).
+* Private Option: Please email poster proposal to eva.herbst@hest.ethz.ch and m.xochicale@ucl.ac.uk with subject: "poster submission to OSS4ST workshop. Details to include are author details, subtheme, poster title, and a brief description of your poster proposal in an abstract of 100 to 200 words (see this [template](https://github.com/oss-for-surgtech/workshop-hamlyn2024/blob/main/.github/ISSUE_TEMPLATE/poster_submission.md)).
+
 ## Poster template and instructions
 We recommend to design poster with the following sections in a `A1` size. 
 * Introduction
