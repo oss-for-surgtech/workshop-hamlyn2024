@@ -42,7 +42,7 @@ Participants of the workshop will learn from the leading authors of state-of-the
 | 17:15  | Workshop End |  |  | 
 
 
-## Call for posters
+## Call for posters (extended submission deadline 14th-June!)
 Calling all attendees to share their insights and contributions through poster presentations focusing on Open-Source Software for Surgical Technologies. Your innovative work is welcomed and encouraged!
 
 We welcome posters covering a diverse range of topics, including:

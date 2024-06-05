@@ -29,10 +29,10 @@ Topics of interest include (but are not limited to):
 * Project summaries, methodological approaches, research findings, project summaries, and initiatives related to Open-Source Software for Surgical Technologies.
 
 ## Important dates
-* Poster proposal submission deadline: 7th June, 2024
-* Notification of acceptance: 14th June, 2024 (providing further details to authors on Zenodo's DOIs submission)
+* Poster proposal submission deadline: 14th June, 2024 
+* Notification of acceptance: 17th June, 2024 (providing further details to authors on Zenodo's DOIs submission)
 * PDF poster submission deadline: 24th June, 2024
-* Workshop day: 28th June, 2024
+* Poster presentation: 28th June, 2024 
 
 ## Poster Proposal submission
 We encourage open-source participation; however, we also want to ensure that authors have the option for both public and private submissions: 
@@ -55,10 +55,15 @@ We plan to request Zenodo DOIs for accepted posters, providing authors with a fo
 ## Poster submission
 Please submit your poster proposals by creating a [new issue](https://github.com/oss-for-surgtech/workshop-hamlyn2024/issues/new/choose) with the title of your poster, using poster submissions option ([Get started] button).
 
+## Poster Presentation
+* Authors must print posters to be presented in poster boards and in a 5-minutes spotlight talks!
+* Organisers provide poster boards available for authors and respective material to setup poster
+* Organiser can accommodate either one A0 poster portrait on each board, or two A1 landscape.
+
 ## Program Chairs
-Dr [Eva Herbst](https://evaherbst.github.io/personal_website/), ETH Zurich   
-Dr [Stephen Thompson](https://mxochicale.github.io/), University College London   
-Dr [Miguel Xochicale](https://mxochicale.github.io/), University College London    
+* Dr [Eva Herbst](https://evaherbst.github.io/personal_website/), ETH Zurich
+* Dr [Stephen Thompson](https://scholar.google.com/citations?user=-rD4cJIAAAAJ&hl=en&oi=ao), University College London
+* Dr [Miguel Xochicale](https://mxochicale.github.io/), University College London
 
 ## Contact 
 For additional information please contact Eva Herbst at eva.herbst@hest.ethz.ch and Miguel Xochicale m.xochicale@ucl.ac.uk
