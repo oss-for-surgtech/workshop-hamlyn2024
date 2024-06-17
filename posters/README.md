@@ -48,12 +48,28 @@ We recommend to design poster with the following sections in a `A1` size.
 * (Acknowledgments)
 * References
 
-## Zenodo DOI's for accepted poster
-We have decided not to include proceedings this time to make the submission process easier and more accessible for everyone using our GitHub repository. 
-We plan to request Zenodo DOIs for accepted posters, providing authors with a formal citation option of their work.
-
 ## Poster submission
 Please submit your poster proposals by creating a [new issue](https://github.com/oss-for-surgtech/workshop-hamlyn2024/issues/new/choose) with the title of your poster, using poster submissions option ([Get started] button).
+
+## Zenodo DOI's for accepted poster
+We have decided not to include proceedings this time to make the submission process easier and more accessible for everyone using our GitHub repository. 
+Hence, we are requesting authors to submit their posters to Zenodo, providing authors with a formal citation option of their work (e.g., DOI):
+1. Create an new zenodo submission https://zenodo.org/uploads/new 
+2. Drag and drop your PDF poster 
+3. Do you already have a DOI for this upload? Yes! Please add it or NO that automatically create a DOI for your poster.
+4. Select resource type: “Poster”, TITLE, creators (names, ORCID, Affilication, Role), Description(abstract of your poster) 
+5. Select Licence for our poster  
+6. Add detials of the conference  
+    **Title**: The 16th Hamlyn Symposium on Medical Robotics  
+    **Acronym**: HSMR  
+    **Place**:  Royal Geographical Society  
+    **Dates**: 28th June 2024   
+    **Website**: https://www.hamlynsymposium.org/events/open-source-software-for-surgical-technologies-2/   
+    **Session**: Open-Source Software for Surgical Technologies
+7. Please feel free any of the additional informaion to your poster: “recommended information”, “funding”, “alternative identifiers”, “related work”, “references”, “publishing infomraiton” and “domain specific fields”.
+
+![fig](../figs/zenodo-poster-submission.png)
+ 
 
 ## Poster Presentation
 * Authors must print posters to be presented in poster boards and in a 5-minutes spotlight talks!
