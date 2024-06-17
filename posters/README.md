@@ -49,14 +49,15 @@ We recommend to design poster with the following sections in a `A1` size.
 * References
 
 ## Poster submission
-We have decided not to include proceedings this time to make the submission process easier and more accessible for everyone using our GitHub repository.   
+We have decided not to include proceedings this time to make the submission process easier and more accessible for everyone using our GitHub repository.
 Hence, please submit your poster proposals by creating a [new issue](https://github.com/oss-for-surgtech/workshop-hamlyn2024/issues/new/choose) with the title of your poster, using poster submissions option ([Get started] button). 
 
 ## Zenodo DOI's for accepted poster
-We request that authors submit their posters to Zenodo, which will provide a formal citation option for their work (e.g., DOI):
+We request that authors submit their posters to Zenodo, which will provide a formal citation option for their work (e.g., DOI).
+See below steps and a figure. 
 1. Create an new zenodo submission https://zenodo.org/uploads/new 
 2. Drag and drop your PDF poster 
-3. Do you already have a DOI for this upload? Yes! Please add it or NO that automatically create a DOI for your poster.
+3. Do you already have a DOI for this upload? Yes! Please add it or select `NO` that automatically create a DOI for your poster.
 4. Select resource type: “Poster”, TITLE, creators (names, ORCID, Affilication, Role), Description(abstract of your poster) 
 5. Select Licence for our poster  
 6. Add detials of the conference  
@@ -67,10 +68,11 @@ We request that authors submit their posters to Zenodo, which will provide a for
     **Website**: https://www.hamlynsymposium.org/events/open-source-software-for-surgical-technologies-2/   
     **Session**: Open-Source Software for Surgical Technologies
 7. Please feel free any of the additional informaion to your poster: “recommended information”, “funding”, “alternative identifiers”, “related work”, “references”, “publishing infomraiton” and “domain specific fields”.
+8. Please share your doi submission in the respective issue! We are planning to add posters details in this repo!
+9. Many thanks for your submission, please do not hesiate to reach out Eva at eva.herbst@hest.ethz.ch and Miguel m.xochicale@ucl.ac.uk if there is anythig we can help! 
 
 ![fig](../figs/zenodo-poster-submission.png)
  
-
 ## Poster Presentation
 * Authors must print posters to be presented in poster boards between 14:30 to 15:15 
 * Authors can accommodate either one A0 poster portrait on each board, or two A1 landscape.
