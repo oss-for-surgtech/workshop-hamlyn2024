@@ -49,11 +49,11 @@ We recommend to design poster with the following sections in a `A1` size.
 * References
 
 ## Poster submission
-Please submit your poster proposals by creating a [new issue](https://github.com/oss-for-surgtech/workshop-hamlyn2024/issues/new/choose) with the title of your poster, using poster submissions option ([Get started] button).
+We have decided not to include proceedings this time to make the submission process easier and more accessible for everyone using our GitHub repository.   
+Hence, please submit your poster proposals by creating a [new issue](https://github.com/oss-for-surgtech/workshop-hamlyn2024/issues/new/choose) with the title of your poster, using poster submissions option ([Get started] button). 
 
 ## Zenodo DOI's for accepted poster
-We have decided not to include proceedings this time to make the submission process easier and more accessible for everyone using our GitHub repository. 
-Hence, we are requesting authors to submit their posters to Zenodo, providing authors with a formal citation option of their work (e.g., DOI):
+We request that authors submit their posters to Zenodo, which will provide a formal citation option for their work (e.g., DOI):
 1. Create an new zenodo submission https://zenodo.org/uploads/new 
 2. Drag and drop your PDF poster 
 3. Do you already have a DOI for this upload? Yes! Please add it or NO that automatically create a DOI for your poster.
@@ -72,9 +72,9 @@ Hence, we are requesting authors to submit their posters to Zenodo, providing au
  
 
 ## Poster Presentation
-* Authors must print posters to be presented in poster boards and in a 5-minutes spotlight talks!
+* Authors must print posters to be presented in poster boards between 14:30 to 15:15 
+* Authors can accommodate either one A0 poster portrait on each board, or two A1 landscape.
 * Organisers provide poster boards available for authors and respective material to setup poster
-* Organiser can accommodate either one A0 poster portrait on each board, or two A1 landscape.
 
 ## Program Chairs
 * Dr [Eva Herbst](https://evaherbst.github.io/personal_website/), ETH Zurich
