@@ -24,20 +24,21 @@ Participants of the workshop will learn from the leading authors of state-of-the
 | Time   | Title | Speaker | Links  |
 | --     | --    | --      | --     |
 | 08:30  | Registration |  |  | 
-| 09:00  | Introduction | Miguel Xochicale, UCL and Eva Herbst ETH Zurich |  | 
-| 09:10  | Medical software, regulation and related challenges | Xenophon Papademetris, Yale School of Medicine |  | 
-| 09:50  | Historical perspective on open source software for medical robotics and medical imaging: lessons learned for management of open source projects | Kevin Cleary, Children's National Hospital |  | 
+| 09:00  | Introduction | Miguel Xochicale, UCL and Eva Herbst ETH Zurich | [:tv:](https://www.youtube.com/watch?v=DXlQeiLCBDQ) | 
+| 09:10  | Medical software, regulation and related challenges | Xenophon Papademetris, Yale School of Medicine | [:tv:](https://www.youtube.com/watch?v=-5mCfhQtnmQ)  | 
+| 09:50  | Historical perspective on open source software for medical robotics and medical imaging: lessons learned for management of open source projects | Kevin Cleary, Children's National Hospital |  [:tv:](https://www.youtube.com/watch?v=im_lzrJfp5g) | 
 | 10:30  | Coffee Break |  |  | 
-| 11:00  | Open source neuronavigation for low-resources healthcare settings | Sonia Pujol and Colton Barr, Harvard |  | 
-| 11:45  | MONAI Label: an open source image labelling and learning tool | Andres Diaz-Pinto, NVIDIA |  | 
+| 11:00  | Open source neuronavigation for low-resources healthcare settings | Sonia Pujol,  Harvard Medical School |  [:tv:](https://www.youtube.com/watch?v=b9Qa4PvNKO4) | 
+| 11:00  | Open source neuronavigation for low-resources healthcare settings | Colton Barr, School of Computing Queen's University |  [:tv:](https://www.youtube.com/watch?v=b9Qa4PvNKO4) | 
+| 11:45  | MONAI Label: an open source image labelling and learning tool | Andres Diaz-Pinto, NVIDIA | [:tv:](https://www.youtube.com/watch?v=yWJfSmEAstA)  | 
 | 12:30  | Lunch Break |  |  | 
-| 13:30  | Accelerating AI Medical Device Streaming Workflows with NVIDIA Holoscan | Mikael Brudfors NVIDIA |  | 
-| 14:00  | Enabling Software Defined Medical Robotics Using Open Source Software | Shashank Sharma, Karl Storz |  | 
+| 13:30  | Accelerating AI Medical Device Streaming Workflows with NVIDIA Holoscan | Mikael Brudfors NVIDIA |  [:tv:](https://www.youtube.com/watch?v=2eM000TLG1c) | 
+| 14:00  | Enabling Software Defined Medical Robotics Using Open Source Software | Shashank Sharma, Karl Storz |  [:tv:](https://www.youtube.com/watch?v=HanfAXldBnM) | 
 | 14:30  | Poster Session |  |  | 
 | 15:15  | Coffee Break |  |  | 
-| 15:30  | Commercial Open Source Software | Andrew Wichmann, Johns Hopkins Technology Ventures (JHTV) |  | 
-| 16:00  | Software-Driven Computer Assisted Navigation in the Age of Deep Learning | Micha Pfeiffer, National Centre for Tumor Diseases (NCT) Dresden |  | 
-| 16:30  | Open-source software supporting product development: sustainability versus certification | Tamas Haidegger, Óbuda University |  | 
+| 15:30  | Commercial Open Source Software | Andrew Wichmann, Johns Hopkins Technology Ventures (JHTV) |  [:tv:](https://www.youtube.com/watch?v=EqrSAcX3mX4) | 
+| 16:00  | Software-Driven Computer Assisted Navigation in the Age of Deep Learning | Micha Pfeiffer, National Centre for Tumor Diseases (NCT) Dresden |  [:tv:](https://www.youtube.com/watch?v=RcQ3LP2EOys) | 
+| 16:30  | Open-source software supporting product development: sustainability versus certification | Tamas Haidegger, Óbuda University |  [:tv:](https://www.youtube.com/watch?v=dsb6LmBO2AE) | 
 | 17:00  | Awards and closing message |  |  | 
 | 17:15  | Workshop End |  |  | 
 
