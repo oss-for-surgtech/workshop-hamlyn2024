@@ -34,13 +34,16 @@ Participants of the workshop will learn from the leading authors of state-of-the
 | 12:30  | Lunch Break |  |  | 
 | 13:30  | Accelerating AI Medical Device Streaming Workflows with NVIDIA Holoscan | Mikael Brudfors NVIDIA |  [:tv:](https://www.youtube.com/watch?v=2eM000TLG1c) | 
 | 14:00  | Enabling Software Defined Medical Robotics Using Open Source Software | Shashank Sharma, Karl Storz |  [:tv:](https://www.youtube.com/watch?v=HanfAXldBnM) | 
-| 14:30  | Poster Session |  |  | 
+| 14:30  | Poster Session | [LBR-Stack by Martin Huber et al.](https://github.com/oss-for-surgtech/workshop-hamlyn2024/issues/3#issuecomment-2390596842); [PyModalSurgical by Mike De Iturrate Reyzabal](https://zenodo.org/records/12204075); [dVRK-Si by Peter Kazanzides et al.](https://zenodo.org/records/12537886), [OptimUS by Reza Haqshenas](https://zenodo.org/records/12720943), [Automated Surgical Report by Ueda, Keisuke et al.](https://zenodo.org/records/12518729)  [ERGOS by Ewald Ury et al.](ewald.ury@kuleuven.be) |  | 
 | 15:15  | Coffee Break |  |  | 
 | 15:30  | Commercial Open Source Software | Andrew Wichmann, Johns Hopkins Technology Ventures (JHTV) |  [:tv:](https://www.youtube.com/watch?v=EqrSAcX3mX4) | 
 | 16:00  | Software-Driven Computer Assisted Navigation in the Age of Deep Learning | Micha Pfeiffer, National Centre for Tumor Diseases (NCT) Dresden |  [:tv:](https://www.youtube.com/watch?v=RcQ3LP2EOys) | 
 | 16:30  | Open-source software supporting product development: sustainability versus certification | Tamas Haidegger, Óbuda University |  [:tv:](https://www.youtube.com/watch?v=dsb6LmBO2AE) | 
 | 17:00  | Awards and closing message |  |  | 
 | 17:15  | Workshop End |  |  | 
+
+
+You can watch the talks of the workshop in this playlist: https://www.youtube.com/watch?v=DXlQeiLCBDQ&list=PL8jiYSCUSzi5TyCJ4F-2c1KsYpsCdq9IE
 
 
 ## Call for posters (extended submission deadline 14th-June!)
