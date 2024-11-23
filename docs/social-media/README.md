@@ -35,7 +35,7 @@ In the meantime, we invite you to:
 
 
 * Join our Discord server: https://discord.gg/P6wB44Ftft​
-* Start our GitHub repo: https://github.com/oss-for-surgtech/workshop-hamlyn2024 
+* Star our GitHub repo: https://github.com/oss-for-surgtech/workshop-hamlyn2024 
 * Follow our GitHub organisation https://github.com/oss-for-surgtech
 
 If you are interested in co-organising or participating in next year's workshop, we would love to hear from you, reach out to us!
