@@ -1,7 +1,25 @@
 # Social media
 
-## Linkedin
+## Linkedin Shorter Version Eva
 
+We are happy to share recordings of our exceptional lineup of speakers this year at the Hamlyn Symposium Workshop on Open-Source Software for Surgical Technologies 2025.
+This workshop highlighted the profound impact of open-source software in advancing surgical technologies and medical innovation. Talks ranged from certification to case studies of open-source software, and all talks can be found here:
+
+
+Videos of the talks can be found here:
+
+We invite you to:
+* Join our Discord server: https://discord.gg/P6wB44Ftft​
+* Star our GitHub repo: https://github.com/oss-for-surgtech/workshop-hamlyn2024 
+* Follow our GitHub organisation https://github.com/oss-for-surgtech
+
+If you are interested in co-organising or participating in next year's workshop, we would love to hear from you, reach out to us!
+
+[ add tags of all speakers with Linkedin here]
+[add group photo]
+[add Hamlyn tags]
+
+## Linkedin
 
 We are happy to share recordings of our exceptional lineup of speakers this year at the Hamlyn Symposium Workshop on Open-Source Software for Surgical Technologies 2025.
 This workshop highlighted the profound impact of open-source software in advancing surgical technologies and medical innovation.
