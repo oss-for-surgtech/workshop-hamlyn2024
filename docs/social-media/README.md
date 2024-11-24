@@ -1,10 +1,9 @@
 # Social media
 
 ## Linkedin
-```
 🎉 We are happy to share recordings of our exceptional lineup of speakers this year at the Hamlyn Symposium Workshop on Open-Source Software for Surgical Technologies 2024.
 This workshop highlighted the profound impact of open-source software in advancing surgical technologies and medical innovation. 
-The talks spanned a variety of topics, including certification, commercialization, and case studies of open-source software in research and industry scenarios.
+The talks spanned a variety of topics, including certification, commercialisation, and case studies of open-source software in research and industry scenarios.
 Videos of the talks can be found here: https://www.youtube.com/watch?v=DXlQeiLCBDQ&list=PL8jiYSCUSzi5TyCJ4F-2c1KsYpsCdq9IE
 
 See below for more details on the speakers, topics, poster awardees, and how to get in touch!
@@ -54,7 +53,7 @@ TODO [add group photo]
 #ArtificialIntelligence
 #SurgTech
 #MedTech
-```
+
 
 ## X
 Thread:
