@@ -1,7 +1,7 @@
-# Video recording
+# Video edition
 
-## Edit videos in Kdenlive 
-Croping, resizing, converting and adding circular videos to the slides were based on Kdenlive (see the following screenshot).
+## Edit videos in Kdenlive Version 23.08.5
+Croping, resizing, converting and adding circular videos to the slides were based on [Kdenlive](https://kdenlive.org/) (see the following screenshot).
 
 ![](kdenlive.png)
 
