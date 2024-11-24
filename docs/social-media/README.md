@@ -10,6 +10,7 @@ Videos of the talks can be found here: https://www.youtube.com/watch?v=DXlQeiLCB
 See below for more details on the speakers, topics, poster awardees, and how to get in touch!
 
 🎥 Speakers 
+* Introduction to the workshop by Miguel Xochicale UCL and Eva Herbst ETH Zurich 📺 https://www.youtube.com/watch?v=DXlQeiLCBDQ 
 * @Xenophon Papademetris  (Yale School of Medicine) discussed Medical Software, Regulation, and Related Challenges.
 * @Kevin Cleary (Children's National Hospital) provided a Historical Perspective on Open-Source Software for Medical Robotics and Imaging, highlighting lessons learned for managing open-source projects.
 * @Sonia Pujol and @Colton Barr (Harvard) presented on Open-Source Neuronavigation for Low-Resource Healthcare Settings.
@@ -20,7 +21,7 @@ See below for more details on the speakers, topics, poster awardees, and how to 
 * @Micha Pfeiffer (National Centre for Tumor Diseases, Dresden) delved into Software-Driven Computer-Assisted Navigation in the Age of Deep Learning.
 * @Tamas Haidegger (Óbuda University) discussed Open-Source Software Supporting Product Development: Sustainability versus Certification.
 
-🎖️ Poster awards
+🎖️ Poster awardees
 Congratulations to all the awardees for their outstanding contributions to advancing innovation in surgical technologies!
 
 Best Poster Award
