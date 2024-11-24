@@ -1,12 +1,12 @@
 # Social media
 
-## Linkedin Shorter Version Eva
+## Linkedin Shorter Version
+```
+We are happy to share recordings of our exceptional lineup of speakers this year at the Hamlyn Symposium Workshop on Open-Source Software for Surgical Technologies 2024.
+This workshop highlighted the profound impact of open-source software in advancing surgical technologies and medical innovation. 
+Talks ranged from certification to case studies of open-source software, and all talks can be found here: https://www.hamlynsymposium.org/events/open-source-software-for-surgical-technologies-2/
 
-We are happy to share recordings of our exceptional lineup of speakers this year at the Hamlyn Symposium Workshop on Open-Source Software for Surgical Technologies 2025.
-This workshop highlighted the profound impact of open-source software in advancing surgical technologies and medical innovation. Talks ranged from certification to case studies of open-source software, and all talks can be found here:
-
-
-Videos of the talks can be found here:
+Videos of the talks can be found here: https://www.youtube.com/watch?v=DXlQeiLCBDQ&list=PL8jiYSCUSzi5TyCJ4F-2c1KsYpsCdq9IE
 
 We invite you to:
 * Join our Discord server: https://discord.gg/P6wB44Ftft​
@@ -15,14 +15,37 @@ We invite you to:
 
 If you are interested in co-organising or participating in next year's workshop, we would love to hear from you, reach out to us!
 
-[ add tags of all speakers with Linkedin here]
+[Add tags of all speakers with Linkedin here]
+@Xenophon Papademetris 
+@Kevin Cleary
+@Sonia Pujol 
+@Colton Barr
+@Andres Diaz-Pinto
+@Mikael Brudfors
+@Shashank Sharma
+@Andrew Wichmann
+@Micha Pfeiffer
+@Tamas Haidegger
+
 [add group photo]
-[add Hamlyn tags]
 
-## Linkedin
+[add tags]
+#OpenSource
+#HSMR24
+#HamlynSymposium2024
+#Healthcare 
+#ArtificialIntelligence
+#SurgTech
+#MedTech
+```
 
-We are happy to share recordings of our exceptional lineup of speakers this year at the Hamlyn Symposium Workshop on Open-Source Software for Surgical Technologies 2025.
+## Linkedin Longer Version
+
+We are happy to share recordings of our exceptional lineup of speakers this year at the Hamlyn Symposium Workshop on Open-Source Software for Surgical Technologies 2024.
 This workshop highlighted the profound impact of open-source software in advancing surgical technologies and medical innovation.
+Talks ranged from certification to case studies of open-source software, and all talks can be found here: https://www.hamlynsymposium.org/events/open-source-software-for-surgical-technologies-2/
+
+Videos of the talks can be found here: https://www.youtube.com/watch?v=DXlQeiLCBDQ&list=PL8jiYSCUSzi5TyCJ4F-2c1KsYpsCdq9IE
 
 * Xenophon Papademetris (Yale School of Medicine) discussed Medical Software, Regulation, and Related Challenges.
 * Kevin Cleary (Children's National Hospital) provided a Historical Perspective on Open-Source Software for Medical Robotics and Imaging, highlighting lessons learned for managing open-source projects.
@@ -37,22 +60,20 @@ This workshop highlighted the profound impact of open-source software in advanci
 A big thank you to all the authors who submitted posters this year!
 
 Best Poster Award
-Martin Huber et al.​ from King's College London ​"LBR-Stack: ROS 2 and Python Integration of KUKA FRI for Med and IIWA Robots"​
-GitHub:  https://github.com/lbr-stack/lbr_fri_ros2_stack/​
-arXiv: https://arxiv.org/abs/2311.12709​​
+Martin Huber et al. from King's College London "LBR-Stack: ROS 2 and Python Integration of KUKA FRI for Med and IIWA Robots"
+GitHub:  https://github.com/lbr-stack/lbr_fri_ros2_stack/
+arXiv: https://arxiv.org/abs/2311.12709
 
 Runner-Up Awards (Three-Way Tie)
 
-* Keisuke Ueda et al.​ from Medical DATAWAY​ "Automated Surgical Report Generation Using In-context Learning with Scene Labels from Surgical Videos"​
-​* Mikel De Iturrate Reyzabal et al. ​from King's College London​ "PyModalSurgical. An image-space modal analysis library for surgical videos: generating haptic and visual feedback"​ 
-* Ewald Ury et al.​ from  KU LEUVEN​ "Markerless Augmented Reality Guidance System for Maxillofacial Surgery"​
+* Keisuke Ueda et al. from Medical DATAWAY "Automated Surgical Report Generation Using In-context Learning with Scene Labels from Surgical Videos"
+* Mikel De Iturrate Reyzabal et al. from King's College London "PyModalSurgical. An image-space modal analysis library for surgical videos: generating haptic and visual feedback"​ 
+* Ewald Ury et al. from  KU LEUVEN "Markerless Augmented Reality Guidance System for Maxillofacial Surgery"
 
 Congratulations to all the awardees for their outstanding contributions to advancing innovation in surgical technologies!
 
 In the meantime, we invite you to:
-
-
-* Join our Discord server: https://discord.gg/P6wB44Ftft​
+* Join our Discord server: https://discord.gg/P6wB44Ftft
 * Star our GitHub repo: https://github.com/oss-for-surgtech/workshop-hamlyn2024 
 * Follow our GitHub organisation https://github.com/oss-for-surgtech
 
@@ -70,7 +91,7 @@ Thread:
 Hamlyn Symposium Workshop on :school_satchel: Open-Source Software for Surgical Technologies, 
 28th June 2024   
 [group photo]
-See videos in the threed! 
+See videos and poster winners in the threed! 
 
 
 VIDEOS
@@ -110,4 +131,12 @@ Open-source software supporting product development: sustainability versus certi
 https://www.youtube.com/watch?v=dsb6LmBO2AE
 
 
+Best Poster Award
+Martin Huber et al.​ from King's College London ​"LBR-Stack: ROS 2 and Python Integration of KUKA FRI for Med and IIWA Robots"​
+GitHub:  https://github.com/lbr-stack/lbr_fri_ros2_stack/​
+arXiv: https://arxiv.org/abs/2311.12709​​
 
+Runner-Up Poster Awards (Three-Way Tie)
+* Keisuke Ueda et al.​ from Medical DATAWAY​ "Automated Surgical Report Generation Using In-context Learning with Scene Labels from Surgical Videos"​
+* Mikel De Iturrate Reyzabal et al. ​from King's College London​ "PyModalSurgical. An image-space modal analysis library for surgical videos: generating haptic and visual feedback"​ 
+* Ewald Ury et al.​ from  KU LEUVEN​ "Markerless Augmented Reality Guidance System for Maxillofacial Surgery"​
