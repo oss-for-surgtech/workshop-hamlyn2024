@@ -1,35 +1,51 @@
 # Social media
 
-## Linkedin Shorter Version
+## Linkedin
 ```
-We are happy to share recordings of our exceptional lineup of speakers this year at the Hamlyn Symposium Workshop on Open-Source Software for Surgical Technologies 2024.
+🎉 We are happy to share recordings of our exceptional lineup of speakers this year at the Hamlyn Symposium Workshop on Open-Source Software for Surgical Technologies 2024.
 This workshop highlighted the profound impact of open-source software in advancing surgical technologies and medical innovation. 
-Talks ranged from certification to case studies of open-source software, and all talks can be found here: https://www.hamlynsymposium.org/events/open-source-software-for-surgical-technologies-2/
-
+The talks spanned a variety of topics, including certification, commercialization, and case studies of open-source software in research and industry scenarios.
 Videos of the talks can be found here: https://www.youtube.com/watch?v=DXlQeiLCBDQ&list=PL8jiYSCUSzi5TyCJ4F-2c1KsYpsCdq9IE
 
+See below for more details on the speakers, topics, poster awardees, and how to get in touch!
+
+🎥 Speakers 
+* @Xenophon Papademetris  (Yale School of Medicine) discussed Medical Software, Regulation, and Related Challenges.
+* @Kevin Cleary (Children's National Hospital) provided a Historical Perspective on Open-Source Software for Medical Robotics and Imaging, highlighting lessons learned for managing open-source projects.
+* @Sonia Pujol and @Colton Barr (Harvard) presented on Open-Source Neuronavigation for Low-Resource Healthcare Settings.
+* @Andres Diaz-Pinto (NVIDIA) introduced MONAI Label, an open-source tool for image labeling and learning.
+* @Mikael Brudfors (NVIDIA) showcased Accelerating AI Medical Device Streaming Workflows with NVIDIA Holoscan.
+* @Shashank Sharma (Karl Storz VentureONE) spoke on Enabling Software-Defined Medical Robotics Using Open-Source Software.
+* @Andrew Wichmann (Johns Hopkins Technology Ventures) explored Commercial Open-Source Software.
+* @Micha Pfeiffer (National Centre for Tumor Diseases, Dresden) delved into Software-Driven Computer-Assisted Navigation in the Age of Deep Learning.
+* @Tamas Haidegger (Óbuda University) discussed Open-Source Software Supporting Product Development: Sustainability versus Certification.
+
+🎖️ Poster awards
+Congratulations to all the awardees for their outstanding contributions to advancing innovation in surgical technologies!
+
+Best Poster Award
+Martin Huber et al. from King's College London "LBR-Stack: ROS 2 and Python Integration of KUKA FRI for Med and IIWA Robots"
+GitHub:  https://github.com/lbr-stack/lbr_fri_ros2_stack/
+arXiv: https://arxiv.org/abs/2311.12709
+
+Runner-Up Awards (Three-Way Tie)
+* Keisuke Ueda et al. from Medical DATAWAY "Automated Surgical Report Generation Using In-context Learning with Scene Labels from Surgical Videos"
+* Mikel De Iturrate Reyzabal et al. from King's College London "PyModalSurgical. An image-space modal analysis library for surgical videos: generating haptic and visual feedback"​ 
+* Ewald Ury et al. from  KU LEUVEN "Markerless Augmented Reality Guidance System for Maxillofacial Surgery"
+
+💬 Get in touch
 We invite you to:
 * Join our Discord server: https://discord.gg/P6wB44Ftft​
 * Star our GitHub repo: https://github.com/oss-for-surgtech/workshop-hamlyn2024 
 * Follow our GitHub organisation https://github.com/oss-for-surgtech
+* Check details of our workshop: https://www.hamlynsymposium.org/events/open-source-software-for-surgical-technologies-2/
+* If you are interested in co-organising or participating in next year's workshop, we would love to hear from you, reach out to us!
 
-If you are interested in co-organising or participating in next year's workshop, we would love to hear from you, reach out to us!
+We look forward to seeing you next year.
+Eva, Stephen, & Miguel
 
-[Add tags of all speakers with Linkedin here]
-@Xenophon Papademetris 
-@Kevin Cleary
-@Sonia Pujol 
-@Colton Barr
-@Andres Diaz-Pinto
-@Mikael Brudfors
-@Shashank Sharma
-@Andrew Wichmann
-@Micha Pfeiffer
-@Tamas Haidegger
+TODO [add group photo]
 
-[add group photo]
-
-[add tags]
 #OpenSource
 #HSMR24
 #HamlynSymposium2024
@@ -38,52 +54,6 @@ If you are interested in co-organising or participating in next year's workshop,
 #SurgTech
 #MedTech
 ```
-
-## Linkedin Longer Version
-
-We are happy to share recordings of our exceptional lineup of speakers this year at the Hamlyn Symposium Workshop on Open-Source Software for Surgical Technologies 2024.
-This workshop highlighted the profound impact of open-source software in advancing surgical technologies and medical innovation.
-Talks ranged from certification to case studies of open-source software, and all talks can be found here: https://www.hamlynsymposium.org/events/open-source-software-for-surgical-technologies-2/
-
-Videos of the talks can be found here: https://www.youtube.com/watch?v=DXlQeiLCBDQ&list=PL8jiYSCUSzi5TyCJ4F-2c1KsYpsCdq9IE
-
-* Xenophon Papademetris (Yale School of Medicine) discussed Medical Software, Regulation, and Related Challenges.
-* Kevin Cleary (Children's National Hospital) provided a Historical Perspective on Open-Source Software for Medical Robotics and Imaging, highlighting lessons learned for managing open-source projects.
-* Sonia Pujol and Colton Barr (Harvard) presented on Open-Source Neuronavigation for Low-Resource Healthcare Settings.
-* Andres Diaz-Pinto (NVIDIA) introduced MONAI Label, an open-source tool for image labeling and learning.
-* Mikael Brudfors (NVIDIA) showcased Accelerating AI Medical Device Streaming Workflows with NVIDIA Holoscan.
-* Shashank Sharma (Karl Storz VentureONE) spoke on Enabling Software-Defined Medical Robotics Using Open-Source Software.
-* Andrew Wichmann (Johns Hopkins Technology Ventures) explored Commercial Open-Source Software.
-* Micha Pfeiffer (National Centre for Tumor Diseases, Dresden) delved into Software-Driven Computer-Assisted Navigation in the Age of Deep Learning.
-* Tamas Haidegger (Óbuda University) discussed Open-Source Software Supporting Product Development: Sustainability versus Certification.
-
-A big thank you to all the authors who submitted posters this year!
-
-Best Poster Award
-Martin Huber et al. from King's College London "LBR-Stack: ROS 2 and Python Integration of KUKA FRI for Med and IIWA Robots"
-GitHub:  https://github.com/lbr-stack/lbr_fri_ros2_stack/
-arXiv: https://arxiv.org/abs/2311.12709
-
-Runner-Up Awards (Three-Way Tie)
-
-* Keisuke Ueda et al. from Medical DATAWAY "Automated Surgical Report Generation Using In-context Learning with Scene Labels from Surgical Videos"
-* Mikel De Iturrate Reyzabal et al. from King's College London "PyModalSurgical. An image-space modal analysis library for surgical videos: generating haptic and visual feedback"​ 
-* Ewald Ury et al. from  KU LEUVEN "Markerless Augmented Reality Guidance System for Maxillofacial Surgery"
-
-Congratulations to all the awardees for their outstanding contributions to advancing innovation in surgical technologies!
-
-In the meantime, we invite you to:
-* Join our Discord server: https://discord.gg/P6wB44Ftft
-* Star our GitHub repo: https://github.com/oss-for-surgtech/workshop-hamlyn2024 
-* Follow our GitHub organisation https://github.com/oss-for-surgtech
-
-If you are interested in co-organising or participating in next year's workshop, we would love to hear from you, reach out to us!
-
-We look forward to seeing you next year.
-Thank you, Eva, Stephen, and Miguel
-
-
-TODO: [ ] add group photo; [ ] add emojis links for videos, etc
 
 ## X
 Thread:
