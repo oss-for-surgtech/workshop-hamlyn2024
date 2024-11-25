@@ -1,0 +1,112 @@
+# Social media
+
+## Linkedin > https://www.linkedin.com/feed/update/urn:li:activity:7266745841179103232/
+
+🎉 We are happy to share recordings of our exceptional lineup of speakers this year at the Hamlyn Symposium Workshop on Open-Source Software for Surgical Technologies 2024.
+This workshop highlighted the profound impact of open-source software in advancing surgical technologies and medical innovation. 
+The talks spanned a variety of topics, including certification, commercialisation, and case studies of open-source software in research and industry scenarios.
+Videos of the talks can be found here: https://www.youtube.com/watch?v=DXlQeiLCBDQ&list=PL8jiYSCUSzi5TyCJ4F-2c1KsYpsCdq9IE
+
+See below for more details on the speakers, topics, poster awardees, and how to get in touch!
+
+🎥 Speakers 
+* Introduction to the workshop by Miguel Xochicale UCL and Eva Herbst ETH Zurich 📺 https://www.youtube.com/watch?v=DXlQeiLCBDQ 
+* @Xenophon Papademetris  (Yale School of Medicine) discussed Medical Software, Regulation, and Related Challenges.
+* @Kevin Cleary (Children's National Hospital) provided a Historical Perspective on Open-Source Software for Medical Robotics and Imaging, highlighting lessons learned for managing open-source projects.
+* @Sonia Pujol and @Colton Barr (Harvard) presented on Open-Source Neuronavigation for Low-Resource Healthcare Settings.
+* @Andres Diaz-Pinto (NVIDIA) introduced MONAI Label, an open-source tool for image labeling and learning.
+* @Mikael Brudfors (NVIDIA) showcased Accelerating AI Medical Device Streaming Workflows with NVIDIA Holoscan.
+* @Shashank Sharma (Karl Storz VentureONE) spoke on Enabling Software-Defined Medical Robotics Using Open-Source Software.
+* @Andrew Wichmann (Johns Hopkins Technology Ventures) explored Commercial Open-Source Software.
+* @Micha Pfeiffer (National Centre for Tumor Diseases, Dresden) delved into Software-Driven Computer-Assisted Navigation in the Age of Deep Learning.
+* @Tamas Haidegger (Óbuda University) discussed Open-Source Software Supporting Product Development: Sustainability versus Certification.
+
+🎖️ Poster awardees
+Congratulations to all the awardees for their outstanding contributions to advancing innovation in surgical technologies!
+
+Best Poster Award
+Martin Huber et al. from King's College London "LBR-Stack: ROS 2 and Python Integration of KUKA FRI for Med and IIWA Robots"
+GitHub:  https://github.com/lbr-stack/lbr_fri_ros2_stack/
+arXiv: https://arxiv.org/abs/2311.12709
+
+Runner-Up Awards (Three-Way Tie)
+* Keisuke Ueda et al. from Medical DATAWAY "Automated Surgical Report Generation Using In-context Learning with Scene Labels from Surgical Videos"
+* Mikel De Iturrate Reyzabal et al. from King's College London "PyModalSurgical. An image-space modal analysis library for surgical videos: generating haptic and visual feedback"​ 
+* Ewald Ury et al. from  KU LEUVEN "Markerless Augmented Reality Guidance System for Maxillofacial Surgery"
+
+💬 Get in touch
+We invite you to:
+* Join our Discord server: https://discord.gg/P6wB44Ftft​
+* Star our GitHub repo: https://github.com/oss-for-surgtech/workshop-hamlyn2024 
+* Follow our GitHub organisation https://github.com/oss-for-surgtech
+* Check details of our workshop: https://www.hamlynsymposium.org/events/open-source-software-for-surgical-technologies-2/
+* If you are interested in co-organising or participating in next year's workshop, we would love to hear from you, reach out to us!
+
+We look forward to seeing you next year.
+Eva, Stephen, & Miguel
+
+TODO [add group photo]
+
+#OpenSource
+#HSMR24
+#HamlynSymposium2024
+#Healthcare 
+#ArtificialIntelligence
+#SurgTech
+#MedTech
+
+
+## X > https://x.com/_mxochicale/status/1860981495189406113
+
+Hamlyn Symposium Workshop on :school_satchel: Open-Source Software for Surgical Technologies, 
+28th June 2024   
+[group photo]
+See videos and poster winners in the threed! 
+
+
+VIDEOS
+Introduction by Miguel Xochicale, UCL and Eva Herbst ETH Zurich 
+https://www.youtube.com/watch?v=DXlQeiLCBDQ 
+
+Medical software, regulation and related challenges by Xenophon Papademetris, Yale School of Medicine 
+https://www.youtube.com/watch?v=-5mCfhQtnmQ
+
+Historical perspective on open source software for medical robotics and medical imaging: lessons learned for management of open source projects by Kevin Cleary, Children's National Hospital 
+https://www.youtube.com/watch?v=im_lzrJfp5g
+
+Open source neuronavigation for low-resources healthcare settings by Sonia Pujol,  Harvard Medical School 
+(https://www.youtube.com/watch?v=b9Qa4PvNKO4 
+
+Open source neuronavigation for low-resources healthcare settings by Colton Barr, School of Computing Queen's University 
+https://www.youtube.com/watch?v=eReSSK26e8A
+
+MONAI Label: an open source image labelling and learning tool by Andres Diaz-Pinto, NVIDIA 
+https://www.youtube.com/watch?v=yWJfSmEAstA
+
+Accelerating AI Medical Device Streaming Workflows with NVIDIA Holoscan by Mikael Brudfors NVIDIA 
+https://www.youtube.com/watch?v=2eM000TLG1c
+
+
+Enabling Software Defined Medical Robotics Using Open Source Software by Shashank Sharma, Karl Storz 
+https://www.youtube.com/watch?v=HanfAXldBnM
+
+
+Commercial Open Source Software by Andrew Wichmann, Johns Hopkins Technology Ventures (JHTV) 
+https://www.youtube.com/watch?v=EqrSAcX3mX4
+
+Software-Driven Computer Assisted Navigation in the Age of Deep Learning by Micha Pfeiffer, National Centre for Tumor Diseases (NCT) Dresden 
+https://www.youtube.com/watch?v=RcQ3LP2EOys
+
+Open-source software supporting product development: sustainability versus certification by Tamas Haidegger, Óbuda University 
+https://www.youtube.com/watch?v=dsb6LmBO2AE
+
+
+Best Poster Award
+Martin Huber et al.​ from King's College London ​"LBR-Stack: ROS 2 and Python Integration of KUKA FRI for Med and IIWA Robots"​
+GitHub:  https://github.com/lbr-stack/lbr_fri_ros2_stack/​
+arXiv: https://arxiv.org/abs/2311.12709​​
+
+Runner-Up Poster Awards (Three-Way Tie)
+* Keisuke Ueda et al.​ from Medical DATAWAY​ "Automated Surgical Report Generation Using In-context Learning with Scene Labels from Surgical Videos"​
+* Mikel De Iturrate Reyzabal et al. ​from King's College London​ "PyModalSurgical. An image-space modal analysis library for surgical videos: generating haptic and visual feedback"​ 
+* Ewald Ury et al.​ from  KU LEUVEN​ "Markerless Augmented Reality Guidance System for Maxillofacial Surgery"​
