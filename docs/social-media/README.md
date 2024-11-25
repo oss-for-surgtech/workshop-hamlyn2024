@@ -1,6 +1,7 @@
 # Social media
 
-## Linkedin
+## Linkedin > https://www.linkedin.com/feed/update/urn:li:activity:7266745841179103232/
+
 🎉 We are happy to share recordings of our exceptional lineup of speakers this year at the Hamlyn Symposium Workshop on Open-Source Software for Surgical Technologies 2024.
 This workshop highlighted the profound impact of open-source software in advancing surgical technologies and medical innovation. 
 The talks spanned a variety of topics, including certification, commercialisation, and case studies of open-source software in research and industry scenarios.
@@ -55,8 +56,7 @@ TODO [add group photo]
 #MedTech
 
 
-## X
-Thread:
+## X > https://x.com/_mxochicale/status/1860981495189406113
 
 Hamlyn Symposium Workshop on :school_satchel: Open-Source Software for Surgical Technologies, 
 28th June 2024   
@@ -78,7 +78,7 @@ Open source neuronavigation for low-resources healthcare settings by Sonia Pujol
 (https://www.youtube.com/watch?v=b9Qa4PvNKO4 
 
 Open source neuronavigation for low-resources healthcare settings by Colton Barr, School of Computing Queen's University 
-https://www.youtube.com/watch?v=b9Qa4PvNKO4
+https://www.youtube.com/watch?v=eReSSK26e8A
 
 MONAI Label: an open source image labelling and learning tool by Andres Diaz-Pinto, NVIDIA 
 https://www.youtube.com/watch?v=yWJfSmEAstA
