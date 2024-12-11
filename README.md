@@ -43,7 +43,7 @@ Participants of the workshop will learn from the leading authors of state-of-the
 | 17:15  | Workshop End |  |  | 
 
 
-You can watch the talks of the workshop in this playlist: https://www.youtube.com/watch?v=DXlQeiLCBDQ&list=PL8jiYSCUSzi5TyCJ4F-2c1KsYpsCdq9IE
+You can watch the talks of the workshop in this playlist: https://www.youtube.com/playlist?list=PL8jiYSCUSzi5TyCJ4F-2c1KsYpsCdq9IE
 
 
 ## Call for posters (extended submission deadline 14th-June!)
@@ -75,7 +75,7 @@ Join our discord server
 https://discord.gg/P6wB44Ftft
 
 Also we have discussions to Ask questions you’re wondering about; Share ideas; Engage with other community members; Welcome others and are open-minded. 
-https://github.com/oss-for-surgtech/workshop-hamlyn2024/discussions
+https://github.com/oss-for-surg-med-ai-tech/workshop-hamlyn2024/discussions
 
 Remember that this is a community we build together 💪.
 
@@ -83,7 +83,7 @@ Remember that this is a community we build together 💪.
 * Generate your SSH keys as suggested [here](https://docs.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent). 
 * Clone the repository by typing (or copying) the following line in a terminal at your selected path in your machine:
 ```
-git clone git@github.com:oss-for-surgtech/workshop-hamlyn2024.git
+git clone git@github.com:oss-for-surg-med-ai-tech/workshop-hamlyn2024.git
 ```
 
 
